@@ -18,6 +18,7 @@ notebooks/all_week.csv
 !data/**/
 !logs/**/
 
+
 # also keep all .gitkeep files
 !.gitkeep
 
