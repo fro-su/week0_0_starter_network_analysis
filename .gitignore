@@ -13,9 +13,11 @@ conf/**/*credentials*
 data/**
 logs/**
 
+
 # except their sub-folders
 !data/**/
 !logs/**/
+
 
 # also keep all .gitkeep files
 !.gitkeep
